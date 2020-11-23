@@ -4,7 +4,7 @@ Sa se verifice daca n este o putere a lui m.
 """
 
 m=int(input("Introduceti numarul m="))
-n=int(inout("Introduceti numarul n="))
+n=int(input("Introduceti numarul n="))
 i=log(n,m)
 l=int(i)
 
