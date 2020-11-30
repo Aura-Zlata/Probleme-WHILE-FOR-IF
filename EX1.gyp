@@ -13,5 +13,5 @@ elif n==29:
     print("Februarie, daca e an bisect")
 elif n==30:
     print("Aprilie,Iunie,Septembrie,Noiembrie")
-else;
+else:
     print("Ianuarie,Martie,Mai,Iulie,August,Octombrie,Decembrie")
