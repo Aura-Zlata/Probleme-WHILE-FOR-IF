@@ -6,30 +6,30 @@ sobolan,bou,tigru,iepure,dragon,sarpe,cal,oaie,maimuta,cocos,caine,porc;
 stiind a anul 2000 a fost anul Dragonului , sa se scrie un algoritm care va citi de la tastatura anul si va afisa denumirea lui conform calendarului japonez.
 """
 
-a=eval(input("Introdu anul: "))
+a=eval(input("Introduceti anul: "))
 if (a//1000==0):
-    print("Introdu alt an")
+    print("Introduceti alt an")
 elif (a%12==0):
-    print("Anul Maimutei")
+    print("al Maimutei")
 elif (a%12==1):
-    print("Anul Cucosului")   
+    print("al Cucosului")   
 elif (a%12==2):
-    print("Anul Cainelui")
+    print("al Cainelui")
 elif (a%12==3):
-    print("Anul Porcului")
+    print("al Porcului")
 elif (a%12==4):
-    print("Anul Sobolanului")
+    print("al Sobolanului")
 elif (a%12==5):
-    print("Anul Boului")
+    print("al Boului")
 elif (a%12==6):
-    print("Anul Tigrului")
+    print("al Tigrului")
 elif (a%12==7):
-    print("Anul Iepurelui")
+    print("al Iepurelui")
 elif (a%12==8):
-    print("Anul Dragonului")
+    print("al Dragonului")
 elif (a%12==9):
-    print("Anul Sarpelui")
+    print("al Sarpelui")
 elif (a%12==10):
-    print("Anul Calului")
+    print("al Calului")
 else:
-    print("Anul Oaiei")
+    print("al Oaiei")
